@@ -1,0 +1,22 @@
+{
+  "name": "mongo_scraper",
+  "version": "1.0.0",
+  "description": "Mongo Cheerio Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dylanburkey@github.com/dylanburkey/Mongo_Scraper.git"
+  },
+  "keywords": [
+    "Mongo"
+  ],
+  "author": "Dylan Burkey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylanburkey/Mongo_Scraper/issues"
+  },
+  "homepage": "https://github.com/dylanburkey/Mongo_Scraper#readme"
+}
